@@ -1,3 +1,7 @@
+/*
+TODO: 서버 소켓 링크 오류
+FIXME: 수정완료상태
+*/
 document.addEventListener('DOMContentLoaded', function () {
     const inputId = document.getElementById('inputid');
     const inputPw = document.getElementById('inputpw');

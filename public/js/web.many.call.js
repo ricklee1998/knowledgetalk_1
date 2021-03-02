@@ -1,3 +1,8 @@
+/*
+TODO: 4인 이상일 때 시간 약 50초 경과 뒤에는 비디오 화면이 꺼진다.
+중간에 참여자가 방을 나가면, 비디오 이미지 화면이 그대로 남는다.
+방장이 회의방을 나가면, 몇몇 참가자들 로그아웃현상이 일어난다.
+*/
 let janusLocalStreamPeer;
 let janusRemoteStreams = {};
 let janusRemoteStreamPeers = {};

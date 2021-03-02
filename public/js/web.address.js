@@ -1,3 +1,6 @@
+/*
+TODO: null일 때 친구 추가, 친구 삭제 기능 off
+*/
 document.addEventListener('DOMContentLoaded', function () {
     let inputId = document.getElementById('inputId');
     let inputPw = document.getElementById('inputPw');
